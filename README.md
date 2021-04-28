@@ -3,9 +3,10 @@
 Flutter descktop app using cnn deep learning and computer vision to detect fase mask!
 ScreenShots ...
 
-[flutter face mask](https://user-images.githubusercontent.com/41911027/116482332-45cb4c00-a885-11eb-88d4-7544b76189b7.PNG)
+![Screenshot (53)](https://user-images.githubusercontent.com/41911027/116482717-fd605e00-a885-11eb-8cd8-73f6aa694eb2.png)
 
-![1613680040394](https://user-images.githubusercontent.com/41911027/116482367-54196800-a885-11eb-9305-fc6d45119fc2.jpg)
+
+
 
 
 
